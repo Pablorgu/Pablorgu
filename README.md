@@ -10,7 +10,7 @@
 
 - **End-to-end development**: Designed and built the entire system architecture, from database modeling to UI/UX implementation.  
 - **Backend engineering**: Developed a robust RESTful API with NestJS featuring:  
-  - Authentication & role-based access control  
+  - Authentication and role-based access control  
   - Optimized PostgreSQL queries with TypeORM
 - **Mobile frontend**: Created cross-platform mobile app with React Native:  
   - Implemented responsive UI with custom design system  
