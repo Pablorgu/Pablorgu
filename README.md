@@ -25,5 +25,5 @@
 ### **Core Technologies**  
 - **Languages**: TypeScript, Java, Python, C.
 - **Frontend**:  Angular, React (Native).
-- **Backend: NestJS, Spring, Flask/FastAPI.
+- **Backend**: NestJS, Spring, Flask/FastAPI.
 - **Architecture**: Microservices,REST APIs, Design Patterns (Singleton, Factory). 
