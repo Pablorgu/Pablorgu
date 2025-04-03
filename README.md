@@ -26,4 +26,4 @@
 - **Languages**: TypeScript, Java, Python, C.
 - **Frontend**:  Angular, React (Native).
 - **Backend**: NestJS, Spring, Flask/FastAPI.
-- **Architecture**: Microservices,REST APIs, Design Patterns (Singleton, Factory). 
+- **Architecture**: Microservices,REST APIs, Design Patterns. 
